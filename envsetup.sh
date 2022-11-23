@@ -12,7 +12,7 @@ fi
 source env/bin/activate
 
 
-pip3 install -r requirements.txt
+pip3 install -r django_app/requirements.txt
 
 if [ -d "logs" ] 
 then
